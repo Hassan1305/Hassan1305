@@ -16,9 +16,7 @@
   <a href="https://www.github.com/Hassan1305" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Hassan1305?logo=github&style=for-the-badge&color=84cc16&labelColor=134e4a" alt="GitHub followers badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hassan1305/Hassan1305/blob/output/snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/hassan1305/hassan1305/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <h2> 🌐 Socials: </h2>
