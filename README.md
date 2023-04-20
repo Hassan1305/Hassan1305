@@ -35,6 +35,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan1305&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-### ✍️ Random Dev Quote and Meme:
+### ✍️ Random Dev Quote:
 ------------------
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) ![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)<br/>
+
+### 😂 Random Dev Meme:
+------------------
+![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
