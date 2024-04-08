@@ -6,11 +6,12 @@
   <h1>💫 About Me:</h1>
 </p>
 
-  As an enthusiastic and passionate developer, I have gained experience primarily in React and React Native, while also working extensively with the MERN stack. My programming expertise extends to Python, where I've had the opportunity to explore data analytics and solve complex problems. Currently, I am an undergraduate student committed to continuous learning and expanding my skillset. My interests include mental health and self-improvement, as I believe that dedication and a growth mindset can help us achieve anything we set our minds to. Being a proud coder, I take pride in my ability to adapt and learn new technologies quickly. In addition to my core competencies, I have experience working with web tools such as .NET and PHP, and I'm proficient in Python scripting, web scraping, and web designing. Over the years, I've expanded my skills into the realm of Android development, Artificial Intelligence, and Machine Learning, where I've had the chance to work with neural networks. My passion for technology, combined with my eagerness to learn and grow, makes me a versatile and valuable member of any development team.<br>
+  As a recent graduate deeply passionate about mobile development, I've specialized in React Native while also expanding my expertise with React for web applications and the MERN stack. My journey in technology extends into Python for data analytics and complex problem-solving. With a firm belief in continuous learning and self-improvement, especially in mental health, I've embraced the challenges of adapting and mastering new technologies rapidly. Beyond my core focus, I've gained proficiency in .NET, PHP, Python scripting, web scraping, and web design, and ventured into Android app development, Artificial Intelligence, and Machine Learning, including work with neural networks. Passionate about leveraging technology for community benefit, I'm eager to collaborate on projects that make a meaningful impact.<br>
   * 🌍  I'm based in Chakwal, Punjab Pakistan<br>
   * ✉️  You can contact me at <a href="mailto:ch.hasni.khan@gmail.com">ch.hasni.khan@gmail.com</a><br>
   * 🤝  I'm open to collaborating on any project that would help community in some way<br>
   * ⚡  Train insane or remain the same
+
 ### ✍️ Random Dev Quote:
 ------------------
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)<br/>
