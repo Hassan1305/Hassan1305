@@ -14,8 +14,6 @@ At Techflo, I focus on .NET web solutions, handling both front-end and back-end 
 
 During my academic journey, I delved deep into Artificial Intelligence, exploring algorithms like Genetics, Hill Climbing, Simulated Annealing, and Adversarial Search in game theory. I also worked with machine learning algorithms such as Linear Regression, Logistic Regression, K Nearest Neighbor (KNN), and K-means Clustering. My learning journey is ongoing, with a strong focus on Neural Networks, NLP, Computer Vision, and beyond.
 
-I'm always excited about new opportunities and collaborations. Feel free to reach out via email at ch.hasni.khan@gmail.com or connect with me here on LinkedIn.
-
 Thanks for sticking with me on this journey!<br>
   * 🌍  I'm based in Chakwal, Punjab Pakistan<br>
   * ✉️  You can contact me at <a href="mailto:ch.hasni.khan@gmail.com">ch.hasni.khan@gmail.com</a><br>
