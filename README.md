@@ -10,7 +10,7 @@
 
 My expertise spans across a broad range of technologies including JavaScript, Python, C#, Java, MySQL, .NET Framework, UWF, ASP.NET, and ReactJS. I'm particularly skilled in mobile development, utilizing React Native and Java to build robust mobile applications.
 
-At Techflo, I focus on .NET web solutions, handling both front-end and back-end development to deliver comprehensive applications. On the side, I take on freelance projects, allowing me to continuously grow and apply my skills in diverse scenarios.
+At Friendsware, I focus on .NET web solutions, handling both front-end and back-end development to deliver comprehensive applications. On the side, I take on freelance projects, allowing me to continuously grow and apply my skills in diverse scenarios.
 
 During my academic journey, I delved deep into Artificial Intelligence, exploring algorithms like Genetics, Hill Climbing, Simulated Annealing, and Adversarial Search in game theory. I also worked with machine learning algorithms such as Linear Regression, Logistic Regression, K Nearest Neighbor (KNN), and K-means Clustering. My learning journey is ongoing, with a strong focus on Neural Networks, NLP, Computer Vision, and beyond.
 
