@@ -6,7 +6,7 @@
   <h1>💫 About Me:</h1>
 </p>
 
-  Hey there! I'm a Computer Science graduate and a passionate problem solver with a knack for tackling challenges from unique angles. Currently, I’m a full-time freelancer and also working part-time at Techflo as a Full Stack Developer.
+  Hey there! I'm a Computer Science graduate and a passionate problem solver with a knack for tackling challenges from unique angles. Currently, I’m a full-time Software Developer at FriendswareSolutions and also working part-time as freelancer as a Full Stack Developer.
 
 My expertise spans across a broad range of technologies including JavaScript, Python, C#, Java, MySQL, .NET Framework, UWF, ASP.NET, and ReactJS. I'm particularly skilled in mobile development, utilizing React Native and Java to build robust mobile applications.
 
