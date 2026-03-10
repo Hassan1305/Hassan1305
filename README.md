@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+HASSAN+NAWAZ;Call+me+😎+HASNI+😎;I+Am+In+😍LOVE😍+With+🙈+👀+🙈+👀;<-------😍+Coding+😍+------->" alt="Typing SVG" width=650>
-</p> 
- 
-<p align="center">
   <h1>💫 About Me:</h1>
 </p>
 
