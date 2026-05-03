@@ -1,18 +1,75 @@
-<p align="center">
-  <h1>💫 About Me:</h1>
-</p>
+<div align="center">
 
-  Hey there! I'm a Computer Science graduate and a passionate problem solver with a knack for tackling challenges from unique angles. 
-Thanks for sticking with me on this journey!<br>
-  * 🌍  I'm based in Chakwal, Punjab Pakistan<br>
-  * ✉️  You can contact me at <a href="mailto:ch.hasni.khan@gmail.com">ch.hasni.khan@gmail.com</a><br>
-  * 🤝  I'm open to collaborating on any project that would help community in some way<br>
-  * ⚡  Train insane or remain the same
+# hey, I'm Hasni 👋
 
-### ✍️ Random Dev Quote:
-------------------
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)<br/>
+**Full-Stack Developer · SaaS Builder · RFID/IoT Engineer**  
+Building products from idea to deployment — Lahore, Pakistan 🇵🇰
 
-### 😂 Random Dev Meme:
-------------------
-![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
+[![Email](https://img.shields.io/badge/ch.hasni.khan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ch.hasni.khan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan1305)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+Full-stack dev based in Lahore, Pakistan. I work with a UAE-based tech company while building my own SaaS products on the side. My day job has me deep in enterprise retail tech — RFID systems, warehouse ops, hardware integrations across live production deployments.
+
+I use AI heavily as a force multiplier and ship fast.
+
+- 📡 Enterprise RFID deployments across retail chains (Zebra, Keonn, Honeywell)
+- 📱 React Native is my primary mobile weapon
+- ☁️ Comfortable across Azure, Google Cloud, and self-hosted infra
+- 🤝 Open to collabs that actually ship
+
+---
+
+### 🛠️ Tech Stack
+
+**Mobile**  
+`React Native` `Flutter`
+
+**Frontend**  
+`React` `Next.js`
+
+**Backend**  
+`.NET` `NestJS` `Node.js`
+
+**Cloud & DevOps**  
+`Azure` `Google Cloud` `Docker` `Nginx`
+
+**Hardware & IoT**  
+`Zebra RFID SDK` `Keonn AdvanGuard` `Honeywell` `GPIO`
+
+**Databases**  
+`PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+---
+
+### 🚀 Things I've Built
+
+| Project | Stack | What it is |
+|---|---|---|
+| **Warehouse RFID App** | React Native · Zebra SDK · Redux | End-to-end goods picking, receiving & QA flows for warehouse ops |
+| **SaaS Subscription Platform** | .NET · React Native · PostgreSQL | Multi-role membership management — owner, manager, client |
+| **Hostel Management App** | Next.js · Node.js | Role-based property management with full auth flows |
+| **Points & Achievements System** | NestJS · Redis · PostgreSQL | Scalable gamification backend designed for millions of users |
+| **Azure Maps Integration** | .NET · Azure Maps API | Geocoding layer built into an enterprise test management system |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan1305&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1305&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to work that actually ships. Let's build something.</sub>
+</div>
