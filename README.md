@@ -14,7 +14,7 @@ Building products from idea to deployment — Lahore, Pakistan 🇵🇰
 
 ### 🧠 About Me
 
-Full-stack dev based in Lahore, Pakistan. I work with a UAE-based tech company while building my own SaaS products on the side. My day job has me deep in enterprise retail tech — RFID systems, warehouse ops, hardware integrations across live production deployments.
+Full-stack dev based in Lahore, Pakistan. I work with a UAE-based tech company while building my own SaaS products on the side. My day job has me deep in enterprise retail tech. RFID systems, warehouse ops, hardware integrations across live production deployments.
 
 I use AI heavily as a force multiplier and ship fast.
 
@@ -62,9 +62,6 @@ I use AI heavily as a force multiplier and ship fast.
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassan1305&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1305&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
