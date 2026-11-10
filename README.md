@@ -2,8 +2,8 @@
 
 # hey, I'm Hasni 👋
 
-**Full-Stack Developer · SaaS Builder · RFID/IoT Engineer**  
-Building products from idea to deployment — Lahore, Pakistan 🇵🇰
+**Product Builder · Mobile & Full-Stack Developer · RFID/IoT Engineer**  
+Taking apps from idea to App Store, with backends I own end to end. Lahore, Pakistan 🇵🇰
 
 [![Email](https://img.shields.io/badge/ch.hasni.khan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ch.hasni.khan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan1305)
@@ -14,48 +14,71 @@ Building products from idea to deployment — Lahore, Pakistan 🇵🇰
 
 ### 🧠 About Me
 
-Full-stack dev based in Lahore, Pakistan. I work with a UAE-based tech company while building my own SaaS products on the side. My day job has me deep in enterprise retail tech. RFID systems, warehouse ops, hardware integrations across live production deployments.
+Full-stack dev based in Lahore, Pakistan. I build and ship my own products under **KhanCreators**, and I help teams ship theirs. Most of my work is mobile, backed by .NET and Node services I build myself. I've also spent years in enterprise retail tech: RFID systems, warehouse ops and hardware integrations across live production deployments.
 
 I use AI heavily as a force multiplier and ship fast.
 
-- 📡 Enterprise RFID deployments across retail chains (Zebra, Keonn, Honeywell)
-- 📱 React Native is my primary mobile weapon
-- ☁️ Comfortable across Azure, Google Cloud, and self-hosted infra
-- 🤝 Open to collabs that actually ship
+- 🏆 **RevenueCat Shipaton 2026** winner
+- 📱 Shipped iOS apps with subscriptions, widgets and app blocking
+- 🛠️ Open source contributor to **[VectorCraft](https://github.com/storytold/vectorcraft)**, a Rust vector illustration app
+- 📡 Enterprise RFID deployments across retail chains (Zebra, Impinj, Keonn, Honeywell)
+- 🤝 Open to remote contract work that actually ships
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Mobile**  
-`React Native` `Flutter`
+`React Native` `Expo` `Swift` `SwiftUI` `RevenueCat`
 
 **Frontend**  
 `React` `Next.js`
 
 **Backend**  
-`.NET` `NestJS` `Node.js`
+`.NET` `C#` `NestJS` `Node.js`
 
 **Cloud & DevOps**  
-`Azure` `Google Cloud` `Docker` `Nginx`
+`AWS` `Azure` `Google Cloud` `Docker` `Nginx` `CI/CD`
 
 **Hardware & IoT**  
-`Zebra RFID SDK` `Keonn AdvanGuard` `Honeywell` `GPIO`
+`Zebra RFID SDK` `Impinj` `Keonn AdvanGuard` `Honeywell` `GPIO`
 
 **Databases**  
-`PostgreSQL` `MongoDB` `MySQL` `Redis`
+`PostgreSQL` `SQL Server` `MongoDB` `MySQL` `Redis`
+
+**Open Source**  
+`Rust`
 
 ---
 
-### 🚀 Things I've Built
+### 🚀 My Products
+
+| Product | Stack | What it is |
+|---|---|---|
+| **SnipStash** | Swift · SwiftUI | Snippet manager for iPhone, iPad and Mac |
+| **Namaz Lock** | React Native · Expo · Swift | Blocks distracting apps until you've prayed |
+| **Morning Line** | React Native · Expo · WidgetKit | Daily line app with an iOS home screen widget |
+| **MembrBase** | .NET · React Native · PostgreSQL | QR based membership management SaaS: owner, manager, client |
+
+---
+
+### 🧩 Things I've Built
 
 | Project | Stack | What it is |
 |---|---|---|
 | **Warehouse RFID App** | React Native · Zebra SDK · Redux | End-to-end goods picking, receiving & QA flows for warehouse ops |
-| **SaaS Subscription Platform** | .NET · React Native · PostgreSQL | Multi-role membership management — owner, manager, client |
+| **RFID Windows Services** | .NET · Hardware SDKs | Printers, readers and gates running in live retail deployments |
 | **Hostel Management App** | Next.js · Node.js | Role-based property management with full auth flows |
 | **Points & Achievements System** | NestJS · Redis · PostgreSQL | Scalable gamification backend designed for millions of users |
 | **Azure Maps Integration** | .NET · Azure Maps API | Geocoding layer built into an enterprise test management system |
+
+---
+
+### 🌱 Open Source
+
+| Project | What I did |
+|---|---|
+| **[VectorCraft](https://github.com/storytold/vectorcraft)** | Spell check engine, custom dictionary, Auto Spell Check, macOS paste fix, wheel zoom and anchor point fixes |
 
 ---
 
